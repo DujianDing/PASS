@@ -1,0 +1,25 @@
+antlr4-python3-runtime==4.8
+cffi==1.14.6
+click==8.0.3
+colorama==0.4.4
+# Cython==0.29.24
+# Editable install with no version control (fairseq==1.0.0a0)
+# -e .
+hydra-core==1.0.7
+importlib-metadata==4.8.1
+importlib-resources==5.2.2
+joblib==1.1.0
+# numpy==1.21.2
+omegaconf==2.0.6
+portalocker==2.0.0
+pycparser==2.20
+PyYAML==6.0b1
+regex==2021.10.8
+sacrebleu==1.4.14
+sacremoses==0.0.43
+six==1.16.0
+tabulate==0.8.9
+torch==1.9.1
+tqdm==4.62.3
+typing-extensions==3.10.0.2
+zipp==3.6.0
